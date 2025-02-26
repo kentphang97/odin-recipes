@@ -1,0 +1,14 @@
+.mainTitle{
+
+    background-color: aquamarine;
+    color: darkcyan;   
+    text-align: center;
+    font-size: 50px; 
+}
+
+.recipeLink{
+
+    background-color: rgba(63, 192, 149, 0.308);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
