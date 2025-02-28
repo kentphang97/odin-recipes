@@ -11,4 +11,10 @@
     background-color: rgba(63, 192, 149, 0.308);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 20px;
+    margin-bottom: 5px;
+}
+
+.div1{
+    border: black;
+    width: 400px;
 }
